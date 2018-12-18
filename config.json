@@ -1,1 +1,1 @@
-{"globalParameters":{"persistCache": false},"harvesterParameters":{"from":"","until":"","hostUrl":"http://alpendac-oaipmhserver.default.svc.cluster.local","metadataPrefix":"oai_dc"}}
+{"OaiPmhETL":{"parameters":[{"key":"hostUrl","value":"http://alpendac-oaipmhserver.default.svc.cluster.local","type":"StringParameter"},{"key":"metadataPrefix","value":"oai_dc","type":"StringParameter"}]}}
