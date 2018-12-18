@@ -1,1 +1,1 @@
-{"OaiPmhETL":{"parameters":[{"key":"hostUrl","value":"http://alpendac-oaipmhserver.default.svc.cluster.local/app.php/","type":"StringParameter"},{"key":"metadataPrefix","value":"oai_dc","type":"StringParameter"}]}}
+{"OaiPmhETL":{"parameters":[{"key":"hostUrl","value":"http://alpendac-oaipmhserver.default.svc.cluster.local","type":"StringParameter"},{"key":"metadataPrefix","value":"oai_dc","type":"StringParameter"}]}}
