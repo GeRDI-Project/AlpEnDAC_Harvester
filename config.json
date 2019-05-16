@@ -4,7 +4,7 @@
             {
                 "key": "hostUrl",
                 "type": "StringParameter",
-                "value": "http://alpendac-oaipmhserver.default.svc.cluster.local"
+                "value": "http://alpendac-oaipmh-server.default.svc.cluster.local"
             },
             {
                 "key": "logoUrl",
