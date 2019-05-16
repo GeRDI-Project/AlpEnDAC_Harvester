@@ -1,1 +1,21 @@
-{"OaiPmhETL":{"parameters":[{"key":"hostUrl","value":"http://alpendac-oaipmh-server.default.svc.cluster.local","type":"StringParameter"},{"key":"logoUrl","value":"https://www.lrz.de/forschung/projekte/forschung-e-infra/alpendaz_de/logo_vao.gif","type":"StringParameter"},{"key":"metadataPrefix","value":"oai_dc","type":"StringParameter"}]}}
+{
+    "OaiPmhETL": {
+        "parameters": [
+            {
+                "key": "hostUrl",
+                "type": "StringParameter",
+                "value": "http://alpendac-oaipmh-server.default.svc.cluster.local"
+            },
+            {
+                "key": "logoUrl",
+                "type": "StringParameter",
+                "value": "https://www.lrz.de/forschung/projekte/forschung-e-infra/alpendaz_de/logo_vao.gif"
+            },
+            {
+                "key": "metadataPrefix",
+                "type": "StringParameter",
+                "value": "oai_dc"
+            }
+        ]
+    }
+}
